@@ -1,0 +1,10 @@
+#greeting{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin:10px;
+    font-family: 'Dancing Script', cursive;
+    font-size:70px;
+ 
+    background-color: rgb(182, 162, 201);
+}
